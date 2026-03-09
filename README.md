@@ -4,7 +4,7 @@ I'm Wei Sheng, a Year 4 Computer Science undergraduate at the National Universit
 
 **Some things I've built:**
 - An end-to-end AI essay grading pipeline in Python - GPT Vision extraction, dual-method grading strategy, per-rubric scoring with justifications
-- Evaluation infrastructure to detect hallucination in AI grading outputs using embedding cosine similarity and an LLM judge against gold-standard teacher annotations
+- Evaluation infrastructure to detect hallucination in AI grading outputs using embedding cosine similarity and an LLM judge against gold-standard teacher annotations, methodology wrote in blog [here](https://www.reneducation.com/blog/an-ai-that-scores-perfectly-can-still-be-useless)
 - A concurrent load testing framework for the grading API, instrumenting LLM token costs, latency, and memory across parallel jobs to model cost-per-submission
 
 Full breakdown of my work at Ren - [lws49/work](https://github.com/lws49/work)
